@@ -6,21 +6,34 @@ This git repo include the python code for constructing a machine learning surrog
 Requirements:
 
 Python3
-packages:
-  numpy
-  PIL
-  pickle
-  tensorflow
-  scipy
-  time
-  matplotlib
-  tqdm
-  sys
-  random
-  math
-  fiona
-  geojson
-  geopandas
+
+numpy
+
+PIL
+
+pickle
+
+tensorflow
+
+scipy
+
+time
+
+matplotlib
+
+tqdm
+
+sys
+
+random
+
+math
+
+fiona
+
+geojson
+
+geopandas
 
 
 CA:
