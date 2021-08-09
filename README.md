@@ -8,31 +8,17 @@ Requirements:
 Python3
 
 numpy
-
 PIL
-
 pickle
-
 tensorflow
-
 scipy
-
 time
-
 matplotlib
-
 tqdm
-
-sys
-
 random
-
 math
-
 fiona
-
 geojson
-
 geopandas
 
 
