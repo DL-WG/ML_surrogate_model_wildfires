@@ -63,4 +63,3 @@ for i in range(0,461,5):
 
 test_index = list(set(all_index)-set(train_index ))
 
-tt = np.eye(500)
