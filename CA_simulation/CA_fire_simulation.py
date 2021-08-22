@@ -1,15 +1,6 @@
 # -*- coding: utf-8 -*-
 #In this script we demonstrate the CA simulation using the data of the Bear fire in 2020
 
-
-# Algorithm based on this paper:A cellular automata model for forest fire spread prediction: The case
-# of the wildfire that swept through Spetses Island in 1990
-# Author: A. Alexandridis a, D. Vakalis b, C.I. Siettos c,*, G.V. Bafas a
-
-# Implementation  based on the open source code https://github.com/XC-Li/Parallel_CellularAutomaton_Wildfire
-# Author: Xiaochi (George) Li
-
-
 import sys
 import math
 import random
