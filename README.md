@@ -7,19 +7,19 @@ Requirements:
 
 Python3
 
-#numpy
-#PIL
-#pickle
-#tensorflow
-#scipy
-#time
-#matplotlib
-#tqdm
-#random
-#math
-#fiona
-#geojson
-#geopandas
+- numpy
+- PIL
+- pickle
+- tensorflow
+- scipy
+- time
+- matplotlib
+- tqdm
+- random
+- math
+- fiona
+- geojson
+- geopandas
 
 
 CA:
